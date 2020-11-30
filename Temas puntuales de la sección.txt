@@ -1,0 +1,14 @@
+Aquí cubriremos varios temas como: 
+
+-Aplicar sockets en un proyecto real
+-Aprender sobre clases del ES6
+-Asignar Tickets
+-Leer Tickets
+-Notificaciones 
+-En resumen, crearemos una aplicación de cola
+
+PARA QUE EL NODEMO NO SE REINICIE CADA VEZ QUE GENREAMOS UN NUEVO TICKET
+En la consola : 
+
+nodemon server/server -e js,html
+-e  = extencion
