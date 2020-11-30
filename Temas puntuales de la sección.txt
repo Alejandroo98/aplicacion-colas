@@ -12,3 +12,9 @@ En la consola :
 
 nodemon server/server -e js,html
 -e  = extencion
+
+
+
+LA APP TIENE UN PEQUEÑO PROBLEMA PERO AQUI ESTA EL LINK DEL REPOSITORIO DEL PROFE 
+
+https://github.com/Klerith/aplicacion-colas/releases/tag/v1.0.0
